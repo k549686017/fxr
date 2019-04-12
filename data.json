@@ -1,0 +1,41 @@
+[{
+    "goodsId":"SPL2016120800004",
+    "src":"images/shangping1.jpg",
+    "name":"智能旋进旋涡流量计",
+    "price":"4399.00"
+},{
+    "goodsId":"SPL2016101400003",
+    "src":"images/shangping2.jpg",
+    "name":"复合加工机床",
+    "price":"5999.00"
+},{
+    "goodsId":"SPL2018011700007",
+    "src":"images/shangping3.jpg",
+    "name":"QJ系列机械手式抛丸清理机",
+    "price":"6999.00"
+},{
+    "goodsId":"SPL2017092800022",
+    "src":"images/shangping4.jpg",
+    "name":"电火花成型机床",
+    "price":"2799.00"
+},{
+    "goodsId":"SPL2016111000046",
+    "src":"images/shangping5.jpg",
+    "name":"安庆离心风机",
+    "price":"8999.00"
+},{
+    "goodsId":"SPL2016121600023",
+    "src":"images/shangping6.jpg",
+    "name":"伺服电机",
+    "price":"14999.00"
+},{
+    "goodsId":"SPL2015092100007",
+    "src":"images/shangping7.jpg",
+    "name":"五金视觉检测自动包装机",
+    "price":"12999.00"
+},{
+    "goodsId":"SPL2016041900092",
+    "src":"images/shangping8.jpg",
+    "name":"全自动COG邦定机",
+    "price":"7899.00"
+}]
