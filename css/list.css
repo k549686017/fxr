@@ -1,0 +1,32 @@
+.margin{width:1200px;margin:0 auto;}
+header{background:#f2f2f2;height:32px;font:12px/30px "";border-top:solid 1px #cfcfcf;border-bottom:solid 1px #cfcfcf;position: fixed;top:0;left:0 ;right:0;z-index: 10;}
+header .header-l{float:left;background:url(../icon/house.png) no-repeat left;padding-left:16px;height:32px;width:314px;}
+header .header-l .header-l-l{float:left;}
+header .header-l .header-l-r{float:left;margin-left:38px;}
+header .header-l .header-l-r a:nth-of-type(2){color:#ff6633;margin-left:5px;}
+header .header-r{float: right;width: 408px;height:32px;margin-right: 6px;}
+header .header-r li{float: left;width: 68px;text-align: center;}
+header .header-r li:nth-of-type(4){background: url(../icon/cort.png) no-repeat left;cursor: pointer;}
+nav{height: 80px;margin-top: 60px;}
+nav img{float: left;}
+nav ul{float: left;margin-left: 100px;padding-top:15px}
+nav ul li{float: left;width: 56px;height:40px;margin-left: 52px;font: 14px/40px "";}
+nav ul li:hover{border-bottom:5px solid #12a2f4;}
+nav form{float: left;border: 1px solid #12a2f4;height: 40px;margin-left: 50px;margin-top: 10px;}
+nav form input{float: left;border: 0;height: 40px;} 
+nav form input:nth-of-type(1){width: 106px;background: #f5f5f5 url(../icon/nav_drop.png) no-repeat right;;}
+nav form input:nth-of-type(2){width: 220px;background: url(../icon/search.png) no-repeat right;}
+#banner{background: url(../images/list.jpg);height: 500px ;}
+main{background: #f9f9f9;overflow: hidden}
+main h5{font:12px/14px "";color: #12b5f5;height: 14px;margin: 35px 0;border-left: 3px solid #12a2f4;padding-left: 7px;}
+
+main #cont{width: 1200px;margin: 0 auto;}
+main .box{width: 280px;text-align: center;float:left;background: #fff;margin-right: 20px;margin-bottom: 20px;}
+main .box img{display: block;margin: 5px auto;}
+main .box span{display: block;color: red;width: 250px;font: 14px/22px ""}
+main .box p{height: 40px;overflow: hidden;font: 14px/22px "";margin-top:10px;}
+main .box em{display: block;width: 120px;line-height: 22px;color: #fff;background: blue;margin: 5px auto;}
+footer{background: #353535;font: 12px/56px "";color: #fff;padding: 15px;text-align: center;}
+
+footer div a{color: #fff;margin-right: 22px;}
+footer div span{margin-right: 22px;}

@@ -1,0 +1,13 @@
+.margin{width:1200px;margin:0 auto;}
+header{background:#f2f2f2;height:32px;font:12px/30px "";border-top:solid 1px #cfcfcf;border-bottom:solid 1px #cfcfcf;position: fixed;top:0;left:0 ;right:0;z-index: 10;}
+header .header-l{float:left;background:url(../icon/house.png) no-repeat left;padding-left:16px;height:32px;width:314px;}
+header .header-l .header-l-l{float:left;}
+header .header-l .header-l-r{float:left;margin-left:38px;}
+header .header-l .header-l-r a:nth-of-type(2){color:#ff6633;margin-left:5px;}
+header .header-r{float: right;width: 408px;height:32px;margin-right: 6px;}
+header .header-r li{float: left;width: 68px;text-align: center;}
+#gou{margin-top:50px}
+#gou img{width: 110px;}
+#gou em{display: block;width: 120px;line-height: 30px;color: #fff;background: dodgerblue;margin: 10px auto;text-align: center;border-radius: 6px;}
+#gou table {text-align: center;}
+#gou table tr{font: 12px/24px "";color: #686868;background: #eee;}

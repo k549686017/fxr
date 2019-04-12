@@ -1,0 +1,73 @@
+.margin {
+  width: 1200px;
+  margin: 0 auto;
+  position: relative; }
+
+header {
+  height: 152px; }
+  header img {
+    width: 427px;
+    float: left;
+    margin-top: 35px; }
+  header p {
+    width: 112px;
+    float: left;
+    font: 25px/150px "";
+    margin-left: 16px; }
+
+main {
+  height: 600px;
+  background: url(../images/login_bg.png); }
+  main .box {
+    box-sizing: border-box;
+    padding-top: 14px;
+    width: 347px;
+    height: 446px;
+    position: absolute;
+    top: 56px;
+    right: 0;
+    background: #fff; }
+    main .box span {
+      font: 16px/60px "";
+      color: #3e3e3e;
+      margin-left: 20px;
+      margin-right: 147px; }
+    main .box #zhuan {
+      font: 14px/60px "";
+      color: #999999; }
+    main .box input {
+      border: 0;
+      display: block;
+      margin: 0 auto;
+      height: 37px;
+      width: 304px;
+      border: 1px solid #dddddd;
+      margin-top: 20px; }
+    main .box #btn {
+      height: 37px;
+      width: 304px;
+      background: #ff5500;
+      margin-top: 40px;
+      border: 0; }
+
+footer {
+  box-sizing: border-box;
+  height: 135px;
+  padding-top: 31px;
+  margin-bottom: 26px;
+  text-align: center; }
+  footer div {
+    margin-bottom: 24px; }
+    footer div a {
+      font: 14px/26px "";
+      color: #666666; }
+    footer div a:hover {
+      color: #000000; }
+  footer p span {
+    margin-left: 15px;
+    font: 12px/26px "";
+    color: #666;
+    margin-top: 24px; }
+  footer p span:nth-of-type(3) {
+    margin-left: 0;
+    color: #ffa313; }
